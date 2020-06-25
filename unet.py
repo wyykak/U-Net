@@ -1,6 +1,5 @@
 import os 
 import numpy as np
-import tensorflow
 from keras.models import *
 from keras.layers import Input, merge, Conv2D, MaxPooling2D, UpSampling2D, Dropout, Cropping2D, concatenate
 from keras.optimizers import *
