@@ -1,6 +1,9 @@
 # U-Net
 Split medical images with U-Net
 
+## Dependency
+Keras and Numpy
+
 ## How to use
 1. Put your image dataset in _data_ directory.
 2. Run _data.py_.
